@@ -11,3 +11,6 @@ ai/
 
 # Virtual environment
 venv/
+
+# gitignore
+.gitignore
