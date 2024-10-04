@@ -1,0 +1,13 @@
+# Python specific files
+__pycache__/
+*.py[cod]
+
+# Environment Variables
+.env
+
+# Binaries and Executables
+chromedriver.exe
+ai/
+
+# Virtual environment
+venv/
