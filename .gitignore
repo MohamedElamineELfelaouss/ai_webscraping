@@ -8,6 +8,3 @@ __pycache__/
 # Binaries and Executables
 chromedriver.exe
 ai/
-
-# Virtual environment
-venv/
